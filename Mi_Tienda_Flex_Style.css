@@ -1,0 +1,130 @@
+.HeaderNav{
+position: absolute;
+color: black;
+font-family: cursive;
+text-decoration: none;
+list-style:none;
+}
+.Gender{
+    font-family: cursive;
+    font-weight: bold;
+
+}
+.HeaderNavSearch{
+font-family: cursive;
+font-weight: bold;
+color: black;
+text-decoration: none;
+list-style:none;
+}
+.HeaderNavItem{
+    font-size: 18px;
+    text-decoration: none;
+    list-style:none;
+}
+.HeaderMenu{
+    text-decoration: none;
+    list-style:none;
+}
+.TITTLE{
+    display: flex;
+    justify-content: center;
+}
+.NumAutors{   
+    display: flex;
+    justify-content: center;
+}
+.Searcher{
+    display: flex;
+    justify-content: end;
+    max-width: 10px;
+    max-height: 10px;
+}
+.Portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    gap: 5px;
+    
+}
+.Marcos{
+    max-width: 250px;
+    height: auto;
+    padding: 1px;
+    background-color: white;
+    margin: 1px;
+    align-self: stretch;
+    
+}
+.Fotos_filósofos{
+    width: 200px;
+    height: 250px;
+
+    object-fit: cover;
+    display: block ;
+    margin: 0 auto;
+    
+}
+.Nombre{
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+.Fecha{
+    font-size: 10px;
+    font-style: italic;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+a:link { text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+.link{
+color: black;
+}
+.Footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    font-size: 10px;
+}
+.NEWSLETTER{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+.NEWSITALIC{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    box-shadow: 0px 1px 0px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.Contact{
+    display: flex;
+    justify-content: center;
+}
+.contacts{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+
+}
+.Terms{
+text-decoration: none;
+list-style:none;  
+font-style: oblique;
+color: black;  
+}
